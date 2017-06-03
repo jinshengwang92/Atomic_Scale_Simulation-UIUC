@@ -1,0 +1,39 @@
+------------------------------------------------------------------------------
+run `python main.py --help` to see how to use this code
+
+output:
+usage: main.py [-h] [-t TEMPERATURE] [-sig SIGMA] [-n NSWEEPS] [-s SEED] [-r]
+
+molecular dynamics of Lennard-Jones fluid with 64 particles with mass 48.0 in
+a cubic box of length 4.0 using a timestep of 0.032
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -t TEMPERATURE, --temperature TEMPERATURE
+                        temperature in reduced units, reasonable range 0.5 -
+                        4.0
+  -sig SIGMA, --sigma SIGMA
+                        random walk step size
+  -n NSWEEPS, --nsweeps NSWEEPS
+                        number of simulation steps
+  -s SEED, --seed SEED  random number generator seed
+  -r, --restart         restart simulation from trajectory file, default to
+                        traj.xyz
+------------------------------------------------------------------------------
+
+Default parameters are consistent with those stated on the HW page. The program will output a few files:
+scalar.dat: trace of potential energy, dumped every sweep
+gofr.dat: trace of pair correlation, averaged internally and dumped every naccum=5 sweeps.
+sofk.dat: trace of structure factor, averaged internally and dumped every naccum=5 sweeps.
+traj.dat: trace of particle positions, can be used for visualization and restart, dumped every ndump=10 sweeps
+
+The first line of gofr.dat contains the bin centers (r)
+The first line of sofk.dat contains the magnitude of the k vectors (k)
+
+see HW3 phase transition example code for how to plot gofr.dat and sofk.dat
+to visualize the MC samples, `source Visualize.tcl` in the Tk console of VMD
+
+For production runs:
+  1. be sure to pass in -n 2000 to make long runs
+  2. if you decide to make many short runs with restart, be sure to change the random seed with -s [a different number every run]
+

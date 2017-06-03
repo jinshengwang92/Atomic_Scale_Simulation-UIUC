@@ -1,0 +1,1575 @@
+Message-ID: <1800093911.49132.1478473679748.JavaMail.uiuc-wiki@shuttlebus-app1.cites.illinois.edu>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_49131_961895128.1478473679748"
+
+------=_Part_49131_961895128.1478473679748
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>AtomicScaleSimulations_HW6</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>AtomicScaleSimulations_HW6</h1>
+    <div class=3D"Section1">
+        <p style=3D"text-align: center;"><span>Questions, clarifications, c=
+omments, etc. about this homework can be posted on the course forum on Piaz=
+za.</span></p>
+<p><strong>In this assignment we will explore the Ising model and simulate =
+it in <u>three different ways</u>: conventional Metropolis Monte Carlo, the=
+ heat bath algorithm and a cluster algorithm.<br><a href=3D"/wiki/download/=
+attachments/526061342/hw6_ising.tgz?version=3D3&amp;modificationDate=3D1477=
+839754000&amp;api=3Dv2" data-linked-resource-id=3D"612343170" data-linked-r=
+esource-version=3D"3" data-linked-resource-type=3D"attachment" data-linked-=
+resource-default-alias=3D"hw6_ising.tgz" data-linked-resource-content-type=
+=3D"application/x-gzip" data-linked-resource-container-id=3D"526061342" dat=
+a-linked-resource-container-version=3D"22">Example skeleton code</a> is ava=
+ilable for your benefit. Although you do not have to use it. If you chose t=
+o design your own code</strong><strong style=3D"line-height: 1.42857;">, yo=
+u may skip the system setup section, which is rather specific to the exampl=
+e code.</strong></p>
+<p>Throughout this homework, our system is the classical 2D Ising model wit=
+h no magnetic field with periodic boundary conditions (PBC). You may pictur=
+e a lattice of spins, each of which can either point up or down. In the abs=
+ence of an external magnetic field, the only interaction in the system occu=
+rs between nearest-neighbor spins; the Hamiltonian is:</p>
+<p><span class=3D"confluence-embedded-file-wrapper image-center-wrapper"><i=
+mg class=3D"confluence-embedded-image image-center" src=3D"e8e8ba641e3ca26b=
+e7543ebec9344865" data-image-src=3D"/wiki/download/attachments/526061342/Co=
+deCogsEqn.gif?version=3D1&amp;modificationDate=3D1422912372000&amp;api=3Dv2=
+" data-unresolved-comment-count=3D"0" data-linked-resource-id=3D"529924347"=
+ data-linked-resource-version=3D"1" data-linked-resource-type=3D"attachment=
+" data-linked-resource-default-alias=3D"CodeCogsEqn.gif" data-base-url=3D"h=
+ttps://wiki.illinois.edu/wiki" data-linked-resource-content-type=3D"image/g=
+if" data-linked-resource-container-id=3D"526061342" data-linked-resource-co=
+ntainer-version=3D"22" width=3D"140" height=3D"44"></span>where the summati=
+on is taken over all nearest neighbor spin pairs in the system.&nbsp;<span =
+class=3D"latexmath-mathinline"><img class=3D"latexmath" src=3D"3d4217e14d8b=
+c8805d75a41bafc57c5a" style=3D"width:9px; height:15px; vertical-align: -2px=
+" width=3D"9" height=3D"15"></span>&nbsp;is the Ising interaction parameter=
+.&nbsp;<span class=3D"latexmath-mathinline"><img class=3D"latexmath" src=3D=
+"ea38ae7e55d912c25c7434ca8c37a7b7" style=3D"width:10px; height:13px; vertic=
+al-align: -4px" width=3D"10" height=3D"13"></span>&nbsp;and&nbsp;<span clas=
+s=3D"latexmath-mathinline"><img class=3D"latexmath" src=3D"0a6f7ac2568a87f1=
+5cdf1f207ffa5fe1" style=3D"width:11px; height:16px; vertical-align: -6px" w=
+idth=3D"11" height=3D"16"></span>&nbsp;are total spin on site i and j, resp=
+ectively. For classical spins of magnitude s=3D1,&nbsp;<span class=3D"latex=
+math-mathinline"><img class=3D"latexmath" src=3D"00f90b777d6708ed6499b717ea=
+f6e6cf" style=3D"width:10px; height:13px; vertical-align: -4px" width=3D"10=
+" height=3D"13"></span>&nbsp;is either 1 for "spin up" or -1 for "spin down=
+".</p>
+<p>To observe the evolution of the system, we will measure the total magnet=
+ization per spin squared of the system:</p>
+<p><span class=3D"confluence-embedded-file-wrapper image-center-wrapper"><i=
+mg class=3D"confluence-embedded-image image-center" src=3D"d2bbb5bcfa05bd7f=
+ea6453042ddb0c07" data-image-src=3D"/wiki/download/attachments/526061342/Co=
+deCogsEqn%20%281%29.gif?version=3D1&amp;modificationDate=3D1422912400000&am=
+p;api=3Dv2" data-unresolved-comment-count=3D"0" data-linked-resource-id=3D"=
+529924348" data-linked-resource-version=3D"1" data-linked-resource-type=3D"=
+attachment" data-linked-resource-default-alias=3D"CodeCogsEqn (1).gif" data=
+-base-url=3D"https://wiki.illinois.edu/wiki" data-linked-resource-content-t=
+ype=3D"image/gif" data-linked-resource-container-id=3D"526061342" data-link=
+ed-resource-container-version=3D"22" width=3D"165" height=3D"60"></span>Thi=
+s quantity measures the amount of magnetic order in the system in a size-in=
+dependent manner. If all spins are pointing up, then&nbsp;<span class=3D"la=
+texmath-mathinline"><img class=3D"latexmath" src=3D"fd84a1c3cca5efa7a40a75d=
+d6a1849b9" style=3D"width:21px; height:17px; vertical-align: -1px" width=3D=
+"21" height=3D"17"></span>=3D1. If every spin points up or down with equal =
+probability, then&nbsp;<span class=3D"latexmath-mathinline"><img class=3D"l=
+atexmath" src=3D"9c4e28b9a8a4272acf072bcf3e0ec69d" style=3D"width:21px; hei=
+ght:17px; vertical-align: -1px" width=3D"21" height=3D"17"></span>=3D0.</p>
+<p>Ideally we would like to study <span class=3D"latexmath-mathinline"><img=
+ class=3D"latexmath" src=3D"38e000a0e57d117d798ee435220b18b8" style=3D"widt=
+h:21px; height:17px; vertical-align: -1px" width=3D"21" height=3D"17"></spa=
+n>&nbsp;as a function of the spin-coupling strength from =CE=B2J=3D0 to =CE=
+=B2J=3D1.0. If your code is fast enough, this is what you should do. Unfort=
+unately, because Python is slow and it is sometimes hard to write fast code=
+ (and some computers are slow) we will only require 3 values (for each algo=
+rithm). These values will be:</p>
+<ol>
+<li>=CE=B2J=3D0.3</li>
+<li>=CE=B2J=3D0.44069</li>
+<li>=CE=B2J=3D0.8</li>
+</ol>
+<p>For each of these algorithms, you should specify the value after 1000 sw=
+eeps of</p>
+<ol>
+<li><span class=3D"latexmath-mathinline"><img class=3D"latexmath" src=3D"11=
+10ab72a8951d36fa0cfddb2ad4d446" style=3D"width:21px; height:17px; vertical-=
+align: -1px" width=3D"21" height=3D"17"></span>, the magnetization per spin=
+ squared and</li>
+<li>the autocorrelation time of <span class=3D"latexmath-mathinline"><img c=
+lass=3D"latexmath" src=3D"788aff8e4bcde1a3ffe221794f58963c" style=3D"width:=
+21px; height:17px; vertical-align: -1px" width=3D"21" height=3D"17"></span>=
+.</li>
+</ol>
+<p>In order to calculate the error, we typically take the standard deviatio=
+n and divide by square root of the&nbsp;number of effective points. For eve=
+rything but the conventional metropolis at 0.44096 you should use this meth=
+od. For this one point though (because the correlation time might be deceiv=
+ingly large) we will use a different method to calculate the error of your =
+simulation: Run your algorithm 10 times, then calculate the standard deviat=
+ion of these ten values. This should give you a more accurate assessment of=
+ your error and automatically deal with the autocorrelation time.</p>
+<p>Let's define a sweep as 1 step of the cluster algorithm or N steps of th=
+e conventional Metropolis or the heat bath algorithm, where N is the total =
+number of spins in the system.</p>
+<p>To help you validate and debug your code, you should check against the f=
+ollowing result</p>
+<div class=3D"table-wrap">
+<table class=3D"confluenceTable">
+<tbody>
+<tr>
+<th class=3D"confluenceTh">=CE=B2J</th>
+<th class=3D"confluenceTh">M^2 (remember this is per spin)</th>
+</tr>
+<tr>
+<td class=3D"confluenceTd">0.25</td>
+<td class=3D"confluenceTd">0.0107(1)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>recall "comparison of datasets" section of HW1 when comparing statistica=
+l numbers.</p>
+<hr>
+<h1 id=3D"AtomicScaleSimulations_HW6-SystemSetup"><strong>System Setup</str=
+ong></h1>
+<p>To simulate an Ising lattice <em>in silico</em>, let us first <span styl=
+e=3D"color: rgb(0,0,255);">initialize a data structure to hold the lattice =
+along with convenient methods to manipulate it</span>. i.e. store a lattice=
+ of spins, and create a method flip_spin() to change them. If you are using=
+ the example code, open a new file and use cubic_ising_lattice as follows:&=
+nbsp;</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"brush: py; gutter: false; theme: Confluence" style=3D"font-si=
+ze:12px;">import cubic_ising_lattice
+&nbsp;
+spins_per_side=3D20
+isingJ =3D 1.0
+&nbsp;
+lat =3D cubic_ising_lattice.CubicIsingLattice(spins_per_side,spin_mag=3Disi=
+ngJ)
+&nbsp;
+#lat.flip_spin(0)
+&nbsp;
+# visualize the lattice
+import matplotlib.pyplot as plt
+fig =3D plt.figure()
+ax  =3D fig.add_subplot(111)
+
+lat.visualize(ax)
+plt.show()</pre>=20
+</div>
+</div>
+<p>The default is to have all spins point up, which does not look very exci=
+ting. You can sprinkle some flip_spin(ispin) in between initialization and =
+visualization to make the picture more interesting. Be sure to read the com=
+ments at the top of cubic_ising_lattice.py. Pay special attention to how th=
+e spins are indexed, also inspect the flip_spin() method. You may notice th=
+at flip_spin() wants to return the change in total magnetization due to the=
+ spin flip. You will implement mag_change() momentarily.</p>
+<p>Currently the lattice of spins are oblivious of each other's existence. =
+Introduce them to their neighbours by constructing a neighbour list i.e. fo=
+r each spin, a list of linear indices of its neighbours. You may achieve th=
+is in the example code <span style=3D"color: rgb(0,0,255);">by implementing=
+ the neighbours(self,ispin) method</span>. This method is only called durin=
+g the construction of the lattice object and not invoked during MC. Therefo=
+re speed does not matter, only correctness does (i.e. do your worst!). To c=
+heck your code, invoke the python interpreter on the cubic_ising_lattice.py=
+ file directly. This will run the unit tests in the "__main__" block and pl=
+ot all neighbours of all spins on a 4x4 lattice. Ignore errors regarding ma=
+gnetization methods, we will implement them next.</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"brush: bash; gutter: false; theme: Confluence" style=3D"font-=
+size:12px;">python cubic_ising_lattice.py</pre>=20
+</div>
+</div>
+<p>Correct neighbours should look like this:</p>
+<p><span class=3D"confluence-embedded-file-wrapper confluence-embedded-manu=
+al-size"><img class=3D"confluence-embedded-image" height=3D"351" src=3D"258=
+8d30a106595d91e55d471981c4e36" data-image-src=3D"/wiki/download/attachments=
+/526061342/neighbours.png?version=3D2&amp;modificationDate=3D1477771979000&=
+amp;api=3Dv2" data-unresolved-comment-count=3D"0" data-linked-resource-id=
+=3D"612343118" data-linked-resource-version=3D"2" data-linked-resource-type=
+=3D"attachment" data-linked-resource-default-alias=3D"neighbours.png" data-=
+base-url=3D"https://wiki.illinois.edu/wiki" data-linked-resource-content-ty=
+pe=3D"image/png" data-linked-resource-container-id=3D"526061342" data-linke=
+d-resource-container-version=3D"22" width=3D"468"></span></p>
+<p>Now, implement two functions to calculate and update the total magnetiza=
+tion of the system. In the example code,<span style=3D"color: rgb(0,0,255);=
+"> implement&nbsp;magnetization() and&nbsp;mag_change()</span>. The first m=
+ethod will calculate the total magnetization <span class=3D"latexmath-mathi=
+nline"><img class=3D"latexmath" src=3D"02f5a43f3fa72f41b7c3f9d8add9b0d8" st=
+yle=3D"width:28px; height:15px; vertical-align: -2px" width=3D"28" height=
+=3D"15"></span>&nbsp;from scratch, where <span class=3D"latexmath-mathinlin=
+e"><img class=3D"latexmath" src=3D"5170c5daae1751fb3c286ae474bc0903" style=
+=3D"width:13px; height:15px; vertical-align: -2px" width=3D"13" height=3D"1=
+5"></span>&nbsp;is the total number of spins and&nbsp;<span class=3D"latexm=
+ath-mathinline"><img class=3D"latexmath" src=3D"9d76c8b5fe65cca4fb9b6f4b51a=
+236f4" style=3D"width:15px; height:14px; vertical-align: -1px" width=3D"15"=
+ height=3D"14"></span>&nbsp;is the total magnetization per spin. The second=
+ method will calculate the change in total magnetization due to a single sp=
+in flip. You should check mag_change() against&nbsp;magnetization(), which =
+is easier to get right. It is expected that you will calculate&nbsp;<span c=
+lass=3D"latexmath-mathinline"><img class=3D"latexmath" src=3D"3feea35497290=
+a40de6d44ba8f960a0b" style=3D"width:21px; height:17px; vertical-align: -1px=
+" width=3D"21" height=3D"17"></span>&nbsp;in some other parts of the code, =
+because it is easier for the lattice to keep track of&nbsp;<span class=3D"l=
+atexmath-mathinline"><img class=3D"latexmath" src=3D"1b2eb6e9e08906f661f333=
+7f951459ae" style=3D"width:15px; height:14px; vertical-align: -1px" width=
+=3D"15" height=3D"14"></span>&nbsp;rather than&nbsp;<span class=3D"latexmat=
+h-mathinline"><img class=3D"latexmath" src=3D"acc356e54712d9925329ea8e08c9b=
+2ad" style=3D"width:21px; height:17px; vertical-align: -1px" width=3D"21" h=
+eight=3D"17"></span>.&nbsp;<span style=3D"color: rgb(0,0,255);">Run the uni=
+t tests in&nbsp;cubic_ising_lattice.py again and make sure they all pass.</=
+span></p>
+<p>Now that we have a working lattice, head over to&nbsp;ising_hamiltonian.=
+py and <span style=3D"color: rgb(0,0,255);">implement the compute_energy() =
+and compute_spin_energy() methods</span>. Again, the first method should co=
+mpute the total energy of the lattice of spins from scratch, while the seco=
+nd method should compute the energy change due to a single spin flip. Test =
+the second method against the first method. Take advantage of the neighbour=
+ list you constructed (nb_list()). You may also want to use linear_idx() an=
+d multi_idx() to figure out where the spins are. Note: lattice.spins() only=
+ holds the states of the spins (up or down), while their magnitudes are sto=
+red in lattice.spin_mag(). When you are done, try&nbsp;<span style=3D"color=
+: rgb(0,0,255);">pass the unit tests in ising hamiltonian.py</span> with&nb=
+sp;</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"brush: bash; gutter: false; theme: Confluence" style=3D"font-=
+size:12px;">python ising_hamiltonian.py</pre>=20
+</div>
+</div>
+<hr>
+<h1 id=3D"AtomicScaleSimulations_HW6-ConventionalMetropolis"><strong>Conven=
+tional Metropolis</strong></h1>
+<p>The first method of simulating the Ising model will be conventional Metr=
+opolis.&nbsp;Recall the basics steps of a Monte Carlo algorithm:</p>
+<ol>
+<li>Choose a random spin to flip. i.e. propose a move with probability T(x=
+=E2=86=92x')</li>
+<li>Calculate the change in energy.</li>
+<li>Accept/reject with an appropriate A(x=E2=86=92x') to sample the canonic=
+al ensemble.</li>
+</ol>
+<p><span style=3D"color: rgb(0,0,255);">1.&nbsp;Write down the probability =
+you are going to change from your current lattice configuration x, to a new=
+ configuration x' with one spin flipped i.e T(x=E2=86=92x') .<br></span><sp=
+an style=3D"color: rgb(0,0,255);">2. Write down the probability you would m=
+ake the "old" move given that you started in the "new" move i.e. T(x'=E2=86=
+=92x)<br></span><span style=3D"color: rgb(0,0,255);">3. Write down the exp(=
+-=CE=B4V) where&nbsp;=CE=B4V =3D V_new - V_old.<br></span><span style=3D"co=
+lor: rgb(0,0,255);">4. Finally write down A(x</span><span style=3D"color: r=
+gb(0,0,255);">=E2=86=92x')</span></p>
+<p>Now, write the main Monte Carlo loops. Remember, you need to keep a trac=
+e&nbsp;<span class=3D"latexmath-mathinline"><img class=3D"latexmath" src=3D=
+"7f519aa3e67e05ef72113c6ae6274be9" style=3D"width:21px; height:17px; vertic=
+al-align: -1px" width=3D"21" height=3D"17"></span>. A bad way of doing this=
+ would be to compute <span class=3D"latexmath-mathinline"><img class=3D"lat=
+exmath" src=3D"0c4695b5f5c1bec56eaa820e60a6755e" style=3D"width:21px; heigh=
+t:17px; vertical-align: -1px" width=3D"21" height=3D"17"></span>&nbsp;from =
+scratch each time. A good way of doing this would be to update <span class=
+=3D"latexmath-mathinline"><img class=3D"latexmath" src=3D"c8d027824e32c57b8=
+8edbf7872aaf713" style=3D"width:21px; height:17px; vertical-align: -1px" wi=
+dth=3D"21" height=3D"17"></span>&nbsp;each time you flip a spin.</p>
+<p><span style=3D"color: rgb(0,0,255);">You should now compute \(M^2\) and =
+its autocorrelation for our three temperatures!</span></p>
+<hr>
+<h1 id=3D"AtomicScaleSimulations_HW6-HeatBathAlgorithm"><strong>Heat Bath A=
+lgorithm</strong></h1>
+<p>We are now going to modify your code to work in a more refined fashion. =
+Remember our previous algorithm was:</p>
+<ol>
+<li>Choose a random spin to flip.</li>
+<li>Calculate the change in energy.</li>
+<li>Accept or reject.</li>
+</ol>
+<p>Our new algorithm (which is very similar) will be</p>
+<ol>
+<li>Choose a random spin to change.</li>
+<li>Sample a new spin for this lattice location using the heat-bath techniq=
+ue.</li>
+<li>Accept or reject.<br><br></li>
+</ol>
+<div class=3D"confluence-information-macro confluence-information-macro-inf=
+ormation">
+<span class=3D"aui-icon aui-icon-small aui-iconfont-info confluence-informa=
+tion-macro-icon"></span>
+<div class=3D"confluence-information-macro-body">
+<p>This algorithm does not care what the current spin is.</p>
+</div>
+</div>
+<p><span style=3D"color: rgb(0,0,255);">Again:<br></span><span style=3D"col=
+or: rgb(0,0,255);">1.&nbsp;Write down the probability to make the "new" mov=
+e T(x=E2=86=92x') .<br></span><span style=3D"color: rgb(0,0,255);">2. Write=
+ down the reverse probability T(x'=E2=86=92x)<br></span><span style=3D"colo=
+r: rgb(0,0,255);">3. Write down the exp(-=CE=B4V) where&nbsp;=CE=B4V =3D V_=
+new - V_old.<br></span><span style=3D"line-height: 1.42857;color: rgb(0,0,2=
+55);">4. Finally write down A(x</span><span style=3D"color: rgb(0,0,255);li=
+ne-height: 1.42857;">=E2=86=92x')</span></p>
+<p><span style=3D"color: rgb(0,0,255);">Run your simulation and report the =
+same information as conventional Metropolis.</span><br><span style=3D"color=
+: rgb(0,0,255);">Is the autocorrelation time larger or smaller? Why is this=
+?</span></p>
+<p>(<span style=3D"color: rgb(255,0,0);">this paragraph for your edificatio=
+n only</span>) Of course, one might be interested in getting even a better =
+speedup. One natural way of doing this is instead of flipping one spin at o=
+nce, we could flip a whole block of spins at once. Imagine we take a 3x3 bl=
+ock of spins. Then we can use the heat-bath technique and write down all th=
+e probabilities for all the different 2^9 spin configurations and select on=
+e with probability proportional to their likelihood.</p>
+<hr>
+<h1 id=3D"AtomicScaleSimulations_HW6-Clustermoves"><strong>Cluster moves</s=
+trong></h1>
+<p>In this problem you will write a cluster move that flips a large collect=
+ion of spins at once. To begin with, we are going to write a function to bu=
+ild clusters</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"brush: py; gutter: false; theme: Confluence" style=3D"font-si=
+ze:12px;">def build_cluster(lattice):=20
+=09#returns list of cluster
+# end def build_cluster</pre>=20
+</div>
+</div>
+<p>The steps to do this will be the following:<br>To begin with, start your=
+ list of "spins you are checking" with a randomly selected spin.</p>
+<p>Then,</p>
+<ol>
+<li>Choose a spin off the list of spins you are checking.</li>
+<li>For each neighbor which has the same spin and is not already in the clu=
+ster (hint: if you don't want your code to run sloth-like, find a fast way =
+to check that a spin does not belong to a cluster already):<br>a. add it to=
+ the cluster with probability p=3D1-exp(-K), <span style=3D"color: rgb(0,0,=
+255);">find the form of K such that your acceptance rate for the cluster mo=
+ve is always 1</span>.<br>b. add it to the list of things whose neighbors y=
+ou will check</li>
+<li>Repeat until there are no new sites to check.</li>
+</ol>
+<p>Now, we are going to write a function</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"brush: py; gutter: false; theme: Confluence" style=3D"font-si=
+ze:12px;">def flip_spins(lattice,cluster):
+=09# returns how much the magnetization has changed.
+# end def flip_spins</pre>=20
+</div>
+</div>
+<p>that takes your cluster and flips all the spins in this cluster. It shou=
+ld also return how much the magnetization has changed due to your spin flip=
+ping.</p>
+<p>Now, we need to write the main loop that does the Monte Carlo. In this l=
+oop you want to</p>
+<ol>
+<li>build a cluster</li>
+<li>flip the cluster</li>
+<li>update the current magnetization</li>
+</ol>
+<p><span style=3D"color: rgb(0,0,255);">Again:<br></span><span style=3D"col=
+or: rgb(0,0,255);">1.&nbsp;Write down the probability to make the "new" mov=
+e T(x=E2=86=92x') .<br></span><span style=3D"color: rgb(0,0,255);">2. Write=
+ down the reverse probability T(x'=E2=86=92x)<br></span><span style=3D"colo=
+r: rgb(0,0,255);">3. Write down the exp(-=CE=B4V) where&nbsp;=CE=B4V =3D V_=
+new - V_old.<br></span><span style=3D"color: rgb(0,0,255);">4. Finally writ=
+e down A(x=E2=86=92x'), this should be 1, always.</span></p>
+<p><span style=3D"color: rgb(0,0,255);">Again, measure the magnetization an=
+d autocorrelation time for our three temperatures.</span></p>
+<hr>
+<h1 id=3D"AtomicScaleSimulations_HW6-D=C3=A9nouement"><strong>D=C3=A9noueme=
+nt</strong></h1>
+<p><span style=3D"color: rgb(0,0,255);">Compare your results from the three=
+ algorithms. Do they all give the same answer? (If not, shouldn't you worry=
+?) Which algorithm has the least autocorrelation time for 1000 sweeps?</spa=
+n></p>
+<p><span style=3D"color: rgb(0,0,255);"><br></span></p>
+<hr>
+<h1 id=3D"AtomicScaleSimulations_HW6-Wormalgorithm(Optional)"><strong>Worm =
+algorithm (Optional)</strong></h1>
+<p>You may wish to read the following section for your edification.<br>Howe=
+ver&nbsp;<span style=3D"line-height: 1.42857;color: rgb(255,0,0);">do NOT w=
+ork on this section</span> unless your project is almost done!</p>
+<p>In this problem, we will again use a different technique for simulating =
+the ising model. In the first two methods, we used the natural representati=
+on of the Ising model (i.e. spins on a lattice that were either up or down)=
+. Unfortunately, as we learned in the lecture (and you have been able to se=
+e from this homework) this representation either requires that you:</p>
+<ol>
+<li>use local moves but deal with critical slowing down issues or</li>
+<li>come up with sophisticated global moves.</li>
+</ol>
+<p>In this problem, we will work in a different representation of the ising=
+ model. This representation will have the advantage that we will be able to=
+ use local moves and avoid the critical slowing down issues.</p>
+<p>This representation will also involve a lattice. This time, though, inst=
+ead of spins on lattice sites, their will be bonds that exist between neare=
+st neighbor lattice sites and these bonds will either be "there" or "not th=
+ere."</p>
+<p>We know that monte carlo performs integrals of the form</p>
+<p><span class=3D"confluence-embedded-file-wrapper image-center-wrapper"><i=
+mg class=3D"confluence-embedded-image image-center" src=3D"14c48fda35f2fc00=
+07c78664cd24e617" data-image-src=3D"/wiki/download/attachments/526061342/Co=
+deCogsEqn%20%282%29.gif?version=3D1&amp;modificationDate=3D1422914270000&am=
+p;api=3Dv2" data-unresolved-comment-count=3D"0" data-linked-resource-id=3D"=
+529924351" data-linked-resource-version=3D"1" data-linked-resource-type=3D"=
+attachment" data-linked-resource-default-alias=3D"CodeCogsEqn (2).gif" data=
+-base-url=3D"https://wiki.illinois.edu/wiki" data-linked-resource-content-t=
+ype=3D"image/gif" data-linked-resource-container-id=3D"526061342" data-link=
+ed-resource-container-version=3D"22" width=3D"110" height=3D"41"></span>whe=
+re</p>
+<p style=3D"text-align: center;"><span class=3D"confluence-embedded-file-wr=
+apper"><img class=3D"confluence-embedded-image" src=3D"8cb7a872f97edad015c5=
+164388bc41e0" data-image-src=3D"/wiki/download/attachments/526061342/CodeCo=
+gsEqn%20%283%29.gif?version=3D1&amp;modificationDate=3D1422914296000&amp;ap=
+i=3Dv2" data-unresolved-comment-count=3D"0" data-linked-resource-id=3D"5299=
+24352" data-linked-resource-version=3D"1" data-linked-resource-type=3D"atta=
+chment" data-linked-resource-default-alias=3D"CodeCogsEqn (3).gif" data-bas=
+e-url=3D"https://wiki.illinois.edu/wiki" data-linked-resource-content-type=
+=3D"image/gif" data-linked-resource-container-id=3D"526061342" data-linked-=
+resource-container-version=3D"22" width=3D"91" height=3D"40"></span>.</p>
+<p>In the previous sections, to get the magnetization we were calculating <=
+br><span class=3D"confluence-embedded-file-wrapper image-center-wrapper"><i=
+mg class=3D"confluence-embedded-image image-center" src=3D"8c5b2537325553fa=
+dca389c07a0f8895" data-image-src=3D"/wiki/download/attachments/526061342/Co=
+deCogsEqn%20%284%29.gif?version=3D1&amp;modificationDate=3D1422914332000&am=
+p;api=3Dv2" data-unresolved-comment-count=3D"0" data-linked-resource-id=3D"=
+529924353" data-linked-resource-version=3D"1" data-linked-resource-type=3D"=
+attachment" data-linked-resource-default-alias=3D"CodeCogsEqn (4).gif" data=
+-base-url=3D"https://wiki.illinois.edu/wiki" data-linked-resource-content-t=
+ype=3D"image/gif" data-linked-resource-container-id=3D"526061342" data-link=
+ed-resource-container-version=3D"22" width=3D"281" height=3D"67"></span>whe=
+re</p>
+<p><span class=3D"confluence-embedded-file-wrapper image-center-wrapper"><i=
+mg class=3D"confluence-embedded-image image-center" src=3D"7e4eca6a9924f28a=
+3d331d1004379de0" data-image-src=3D"/wiki/download/attachments/526061342/Co=
+deCogsEqn%20%285%29.gif?version=3D1&amp;modificationDate=3D1422914361000&am=
+p;api=3Dv2" data-unresolved-comment-count=3D"0" data-linked-resource-id=3D"=
+529924354" data-linked-resource-version=3D"1" data-linked-resource-type=3D"=
+attachment" data-linked-resource-default-alias=3D"CodeCogsEqn (5).gif" data=
+-base-url=3D"https://wiki.illinois.edu/wiki" data-linked-resource-content-t=
+ype=3D"image/gif" data-linked-resource-container-id=3D"526061342" data-link=
+ed-resource-container-version=3D"22" width=3D"214" height=3D"67"></span>In =
+this section, we will do Monte Carlo and calculate a term proportional to t=
+he magnetization squared by doing the integral&nbsp;</p>
+<p><span class=3D"confluence-embedded-file-wrapper image-center-wrapper"><i=
+mg class=3D"confluence-embedded-image image-center" src=3D"79396e68f5748b6d=
+d953e8f2c1d5b4a9" data-image-src=3D"/wiki/download/attachments/526061342/Co=
+deCogsEqn%20%286%29.gif?version=3D1&amp;modificationDate=3D1422914413000&am=
+p;api=3Dv2" data-unresolved-comment-count=3D"0" data-linked-resource-id=3D"=
+529924355" data-linked-resource-version=3D"1" data-linked-resource-type=3D"=
+attachment" data-linked-resource-default-alias=3D"CodeCogsEqn (6).gif" data=
+-base-url=3D"https://wiki.illinois.edu/wiki" data-linked-resource-content-t=
+ype=3D"image/gif" data-linked-resource-container-id=3D"526061342" data-link=
+ed-resource-container-version=3D"22" width=3D"468" height=3D"36"></span></p=
+>
+<p>Unfortunately,</p>
+<p style=3D"text-align: center;"><span class=3D"confluence-embedded-file-wr=
+apper"><img class=3D"confluence-embedded-image" src=3D"0edb84a06b008c085b62=
+914764e9afff" data-image-src=3D"/wiki/download/attachments/526061342/CodeCo=
+gsEqn%20%287%29.gif?version=3D1&amp;modificationDate=3D1422914451000&amp;ap=
+i=3Dv2" data-unresolved-comment-count=3D"0" data-linked-resource-id=3D"5299=
+24356" data-linked-resource-version=3D"1" data-linked-resource-type=3D"atta=
+chment" data-linked-resource-default-alias=3D"CodeCogsEqn (7).gif" data-bas=
+e-url=3D"https://wiki.illinois.edu/wiki" data-linked-resource-content-type=
+=3D"image/gif" data-linked-resource-container-id=3D"526061342" data-linked-=
+resource-container-version=3D"22" width=3D"206" height=3D"41"></span>&nbsp;=
+</p>
+<p>(i.e. S) does not equal Z. So we will also need to simultaneously calcul=
+ate Z by calculating</p>
+<p><span class=3D"confluence-embedded-file-wrapper image-center-wrapper"><i=
+mg class=3D"confluence-embedded-image image-center" src=3D"d000a152fe6bf685=
+16f10f190cab9ed3" data-image-src=3D"/wiki/download/attachments/526061342/Co=
+deCogsEqn%20%288%29.gif?version=3D1&amp;modificationDate=3D1422914488000&am=
+p;api=3Dv2" data-unresolved-comment-count=3D"0" data-linked-resource-id=3D"=
+529924357" data-linked-resource-version=3D"1" data-linked-resource-type=3D"=
+attachment" data-linked-resource-default-alias=3D"CodeCogsEqn (8).gif" data=
+-base-url=3D"https://wiki.illinois.edu/wiki" data-linked-resource-content-t=
+ype=3D"image/gif" data-linked-resource-container-id=3D"526061342" data-link=
+ed-resource-container-version=3D"22" width=3D"468" height=3D"29"></span></p=
+>
+<p>Then the quantity A/B will end up being M^2/Z as desired.</p>
+<p>To do this, we will start with a new code. In this code, our data struct=
+ure will be a 3d array. The first two dimensions of this array will represe=
+nt the lattice sites of our 2d ising model. The third dimension of our arra=
+y will then represent whether the bonds of our four potential nearest neigh=
+bors are respectively (a) <u><strong>on</strong></u> or (b) <u><strong>off<=
+/strong></u>. In other words,&nbsp;''myLattice[5,2,1]'' will be referencing=
+ lattice site at position 5 =C3=97 2 and will indicate whether it's 1st (i.=
+e. top) neighbor is on or off. (our convention will be to order the neighbo=
+rs so they go left, top, right, bottom).</p>
+<p>Also, we need to keep track of a head and a tail in our system.<br>There=
+fore, we will have a variable head and tail that will both be an array of 2=
+ numbers indicating where we are.</p>
+<p>We will also need to store our value of ''Z'' and our values of ''MSquar=
+edTimesZ''. Each configuration that has only closed loops will contribute t=
+o ''Z'' (so every time we see one of these configurations we increment ''Z'=
+'). Each configuration that has a worm and closed loops (which is all of th=
+e one's we are simulating) will contribute to ''M2TimesZ'' (so every time w=
+e see one of these configurations (i.e. every time) we increment ''M2'').</=
+p>
+<p>To begin with this assignment, let's write a function</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"brush: py; gutter: false; theme: Confluence" style=3D"font-si=
+ze:12px;">def FlipNeighbor(myLattice,hd):
+=09# pick one of the neighbors (call it a) of the head
+=09# if the bond between hd and a is on, then turn it off
+=09# if the bond between hd and a is off, then with probability tanh(beta*J=
+) turn it on.
+=09# returns newHead</pre>=20
+</div>
+</div>
+<div class=3D"confluence-information-macro confluence-information-macro-inf=
+ormation">
+<span class=3D"aui-icon aui-icon-small aui-iconfont-info confluence-informa=
+tion-macro-icon"></span>
+<div class=3D"confluence-information-macro-body">
+<p>Notice that in the way we are representing the data, there are two spots=
+ you have to change if you are changing whether a bond is on or off.</p>
+</div>
+</div>
+<p>Again write down the probability you are going to make your "new" move (=
+i.e. T(old=E2=86=92new) ).</p>
+<p>Also, write down the probability you would make the "old" move given tha=
+t you started in the "new" move (i.e. T(new=E2=86=92old) )<br>Write down th=
+e&nbsp;<span style=3D"color: rgb(0,0,0);">exp(-=CE=B4V) where&nbsp;=CE=B4V =
+=3D V_new - V_old.</span><br>Write down p_accept.</p>
+<p>Now we want to write our Monte Carlo code. Remember our algorithm should=
+ be as follows:</p>
+<ol>
+<li>Call your flipNeighbor function</li>
+<li>if the head and tail are at the same spot,&nbsp;</li>
+<li>increase ''Z'' by 1.</li>
+<li>move the head and tail to (the same) new random spot</li>
+<li>increment ''M2TimesZ'' by 1</li>
+</ol>
+<p>At the end, the total magnetization squared will be ''M2TimesZ/Z''.</p>
+<p>Use this algorithm to calculate the magnetization and autocorrelation ti=
+me at the same three temperatures.</p>
+<p>To calculate the magnetization you should calculate =E2=9F=A8''M2TimesZ'=
+'=E2=9F=A9/=E2=9F=A8''Z''=E2=9F=A9. To calculate the autocorrelation time y=
+ou should output after every sweep the value of =E2=9F=A8''M2''=E2=9F=A9/=
+=E2=9F=A8''Z''=E2=9F=A9 for that sweep and calculate the autocorrelation ti=
+me of this quantity.</p>
+<p>&nbsp;</p>
+    </div>
+</body>
+</html>
+------=_Part_49131_961895128.1478473679748
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/c8d027824e32c57b88edbf7872aaf713
+
+iVBORw0KGgoAAAANSUhEUgAAABUAAAARCAYAAAAyhueAAAABLklEQVR42mNgGKSAB4gLgLgGiFWo
+YSALEK8G4hwgng/Er4FYglJDbYBYA4m/H4gTkBWAbHCAYh08BpkgqeNAk1sOlcfQ8B+ID+Mw0AOI
+fwPxd6haFrSwXY0mBgYgp78H4sc4wm871NLNWOSbgVgGm0umA/FiqGvQbewG4naooQVYHKOBZDmK
+S5ZDk8Z/NFtdgLgEavB/tDBPgFoCC+caZEMNoJIpUI0WUHEOaFiB6NPQoIG5BmTxbGhyguEIZEMz
+oC5wgBoKk5wPtUADGiztpKS5yUi2gwytAOIQIG6AipdAxW1IyWqTkfi/oS5cjJQWQTH+GUvaxAki
+oK6CgcdQg02QIvE9jqSEE2xHi9HjaLHoAvV6CbEGZkDzbAxSYZCBFMMe0GDYD03HBgNSFgIAK1tA
+D/cFvCsAAAAASUVORK5CYII=
+------=_Part_49131_961895128.1478473679748
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/79396e68f5748b6dd953e8f2c1d5b4a9
+
+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
+Uv+BB0g2tapJHQEAOw==
+------=_Part_49131_961895128.1478473679748
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/00f90b777d6708ed6499b717eaf6e6cf
+
+iVBORw0KGgoAAAANSUhEUgAAAAoAAAANCAYAAACQN/8FAAAAlklEQVR42mNgIBNoALENEHMAsQIu
+RcuBOAeq+DAQu+BS+BuIA6DsCCBWQZKTQVZ4GogvAzEP1GoWJEW/0d33Gog3o9kE0mABYggg6QZZ
++R/qIRCQAGIfINaBSZogmfAfKgYD64HYA8QogPqYBWr6YygNA9dhfAOo+2KAOAGIRZAUWWBxM1ZQ
+AcQl+AIfBiYD8WK0MMUPAJvGFhCXKLOKAAAAAElFTkSuQmCC
+------=_Part_49131_961895128.1478473679748
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/3feea35497290a40de6d44ba8f960a0b
+
+iVBORw0KGgoAAAANSUhEUgAAABUAAAARCAYAAAAyhueAAAABLklEQVR42mNgGKSAB4gLgLgGiFWo
+YSALEK8G4hwgng/Er4FYglJDbYBYA4m/H4gTkBWAbHCAYh08BpkgqeNAk1sOlcfQ8B+ID+Mw0AOI
+fwPxd6haFrSwXY0mBgYgp78H4sc4wm871NLNWOSbgVgGm0umA/FiqGvQbewG4naooQVYHKOBZDmK
+S5ZDk8Z/NFtdgLgEavB/tDBPgFoCC+caZEMNoJIpUI0WUHEOaFiB6NPQoIG5BmTxbGhyguEIZEMz
+oC5wgBoKk5wPtUADGiztpKS5yUi2gwytAOIQIG6AipdAxW1IyWqTkfi/oS5cjJQWQTH+GUvaxAki
+oK6CgcdQg02QIvE9jqSEE2xHi9HjaLHoAvV6CbEGZkDzbAxSYZCBFMMe0GDYD03HBgNSFgIAK1tA
+D/cFvCsAAAAASUVORK5CYII=
+------=_Part_49131_961895128.1478473679748
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/0c4695b5f5c1bec56eaa820e60a6755e
+
+iVBORw0KGgoAAAANSUhEUgAAABUAAAARCAYAAAAyhueAAAABLklEQVR42mNgGKSAB4gLgLgGiFWo
+YSALEK8G4hwgng/Er4FYglJDbYBYA4m/H4gTkBWAbHCAYh08BpkgqeNAk1sOlcfQ8B+ID+Mw0AOI
+fwPxd6haFrSwXY0mBgYgp78H4sc4wm871NLNWOSbgVgGm0umA/FiqGvQbewG4naooQVYHKOBZDmK
+S5ZDk8Z/NFtdgLgEavB/tDBPgFoCC+caZEMNoJIpUI0WUHEOaFiB6NPQoIG5BmTxbGhyguEIZEMz
+oC5wgBoKk5wPtUADGiztpKS5yUi2gwytAOIQIG6AipdAxW1IyWqTkfi/oS5cjJQWQTH+GUvaxAki
+oK6CgcdQg02QIvE9jqSEE2xHi9HjaLHoAvV6CbEGZkDzbAxSYZCBFMMe0GDYD03HBgNSFgIAK1tA
+D/cFvCsAAAAASUVORK5CYII=
+------=_Part_49131_961895128.1478473679748
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/2588d30a106595d91e55d471981c4e36
+
+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
+------=_Part_49131_961895128.1478473679748
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/8cb7a872f97edad015c5164388bc41e0
+
+R0lGODlhWwApAOMAAP///wAAAKqqqnZ2doiIiJiYmO7u7mZmZrq6uszMzBAQEDIyMlRUVCIiIkRE
+RNzc3CH5BAEAAAAALAAAAABbACkAAAT+EMhJq70410OK/mAojuBRFIFBrmw7GgHwDG5t34Nz7/za
+0L2g0AITDI9D1APJ5DEUzahNoZNaSY8A8Mr9CALGrhhzCCxtBs9HPb40oLeD6mM4YAQDQifdhFVF
+dQR2EgQIIgJsEweGEgkKCU0IWiQOAgKDAAskmhR4FZxMA2AvKZ2JIB0UDKcEUQ5mIwINFQ5nIgl/
+AAcNkFwKMSEGAw0LA4wAcKbGiAy2yBQGrwoMx0xZoCEOp8kSCEsPCkaPFMAUDwUMAaeKDO3u71te
+AZgh4xMPs53d3BQNcxYEsB0RtS4DjAr4MAxggMGfjGoAEOQ68qpXCAT5JhjgN2FBwWewAAqEmTBg
+5IZ3KBnE0/CLBAGGFTgCgHEGIhwHuS5FgZExBINWtGwhgIKikTNcEgYIG8DUJBJJ9EA0gBiSTYID
+AhLgEQCRgNMuBNSRKAdt4geBYtI5MxjRbFKLHxB8vPJGhIICxjJExVCnDTm3FwYUAMp37oQC/9ok
+CEDYbxsUVB1zKSPZ8QK0la9MyiwmC1zOVgrIBN3EwV7STQJ8Rj1kgZ0CmFkH8WigwVrZSRCTjgAA
+Ow==
+------=_Part_49131_961895128.1478473679748
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/9c4e28b9a8a4272acf072bcf3e0ec69d
+
+iVBORw0KGgoAAAANSUhEUgAAABUAAAARCAYAAAAyhueAAAABLklEQVR42mNgGKSAB4gLgLgGiFWo
+YSALEK8G4hwgng/Er4FYglJDbYBYA4m/H4gTkBWAbHCAYh08BpkgqeNAk1sOlcfQ8B+ID+Mw0AOI
+fwPxd6haFrSwXY0mBgYgp78H4sc4wm871NLNWOSbgVgGm0umA/FiqGvQbewG4naooQVYHKOBZDmK
+S5ZDk8Z/NFtdgLgEavB/tDBPgFoCC+caZEMNoJIpUI0WUHEOaFiB6NPQoIG5BmTxbGhyguEIZEMz
+oC5wgBoKk5wPtUADGiztpKS5yUi2gwytAOIQIG6AipdAxW1IyWqTkfi/oS5cjJQWQTH+GUvaxAki
+oK6CgcdQg02QIvE9jqSEE2xHi9HjaLHoAvV6CbEGZkDzbAxSYZCBFMMe0GDYD03HBgNSFgIAK1tA
+D/cFvCsAAAAASUVORK5CYII=
+------=_Part_49131_961895128.1478473679748
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/e8e8ba641e3ca26be7543ebec9344865
+
+R0lGODlhjAAsAOMAAP///wAAAHZ2diIiImZmZqqqqu7u7hAQELq6ujIyMlRUVJiYmNzc3ERERMzM
+zIiIiCH5BAEAAAAALAAAAACMACwAAAT+EMhJq704601PCEcojuFnfgWnrmzrvtzyNSqzKF8C73zv
+q43Pg2UQBBy/pHJJ9BxbBQJzSq06PgPXw1B9CQYBQqroISC6HAQBTOBaHh8Feg5IyCkDKZ3TuGMS
+KHtVAQsUBgEpghqEGgZODIpLCAFuEjKVkRVXkBqTATqZP18VClmhFqMcBB96OwULsJyusAuyFwkJ
+Arq6AQKnFgmtG4ABZzAIvgAEQzvIEssZh8YSDMUZBArZ2tvJP4eJHNUgmCwCepUF3RMOA0gX5hLk
+phIFlBQyUw4N+/z9zBX1yGmoF4DGiysF3QEQCMDBgWmaZiikRoEAqAkKLv56plEFDnD+LwooOPBD
+JMkMA9QBOKCyArZtMFuyQHCA04F/KxLgZNEA3MkHflb0nHASwAIBCqVRqAYx0gM9DzpyyLajgRsH
+UgoNYJjBqgSs9AykkyAA0NAigBSAVGQA1gOZGsryQECrEDWpG+jSmsBFzEY0BbZOEWA3SQJbf5c4
+RJxka2EfRRMvYXBgIgcDXCsIeMAYhj7JTAwMWKvq1IOdoHvkcnEjk6/DqZNQZcEAR1M6DQSQju0l
+QeaFDBykIzaPt/ENBE8oX34C7vHnEt7umk69uq7f0LNr3869u/fv4MOLH0+eNaexF7LYKP+8VWZO
+wtiDFg7Fsvy/3YBeOKow/v2NyWhaRU4BYnUjAHb/0VHLBAxI1Rc46yW40QIKEfaHLA48JmEo3TgG
+AAKYRObchnsYyBkADfzz2QQjkjhHhheAc9oEFLq4kX9iAfCaLP7ZqEgBiCWSG4Qa+mhkEhEAADs=
+
+------=_Part_49131_961895128.1478473679748
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/3d4217e14d8bc8805d75a41bafc57c5a
+
+iVBORw0KGgoAAAANSUhEUgAAAAkAAAAPCAYAAAA2yOUNAAAAd0lEQVR42mNgIBNoALEDEjbApogD
+iHOA+D8QnwdiCVympUAVReCzcjFUkQQ+RY+B+Do+BSpQU7rxKYK5xwGfouNA/BuIBXApEIAq2I5N
+QgTK9oFaVYCuaDOST0COfQ3EPOiKpkNDVgGI7wNxDC63uABxAiEf4QUA5D0YF+1br68AAAAASUVO
+RK5CYII=
+------=_Part_49131_961895128.1478473679748
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/7e4eca6a9924f28a3d331d1004379de0
+
+R0lGODlh1gBDAIQAAP///wAAAGZmZjIyMnZ2dkRERCIiIrq6uu7u7szMzKqqqhAQEIiIiNzc3JiY
+mFRUVENDQwsLC7+/vwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEA
+AAAALAAAAADWAEMAAAX+ICCOZGmeaKqubLsSiCvPdG0jhK3vfF8yD59wOHw4iMikL7GIKZ/QE2LR
+iFqvJcMRy006DN1wkjAQm30Dxnl9CyjY8Jki4IzbUQLwfZ8yCPiAAAhugYUic3WGbAQLioYLOY5s
+C3+SgAIBlmcOAQmafAkBW59cBXqkdwsFqFiDlaxxmIl7AgyjXXNvsHFzt3cCDpyzVw90u3GDQXyD
+AA2RYQunx2wGjXwEq2cNAcrTbMVVewbPYnNq3mwMhHeDumaYB+hsBwGvcZzhZgPG8meDZXceWDuz
+IFOqAAEWKFzIUCHChwjdiUm4RxWbANLgcAqQbUUDB8UCADRT8M42cmH+to20UwDhuRY4Op3Zl49N
+rjX0utmZgtCTDAX2uhSLFytAzTCcgsYJhZEGg2FXMPk6Uy1dAJR21HHTRCDAS0wDBBAYy9HKoI5m
+umLdgSCYg5clDuSpB3XfOkdqRxggKiIPVCL01nLBBJcHAncFfJ4ooLMET6OS1EVKIJHRXyJdJYop
+NlWHRAOKTYhSQU9k5HqHSDCggqXl0TCchTRQ7EDpiFCvS2BCrYhTYwCcQkcpucJW7SoO9gVpoJDA
+gX0HggnQXKIldRtvCgwoIFgEgYwo7PKtocBtbgDlg51HMafxnPFRVK6oJYL5iAKVHjjZNkpLCutC
+SDTAZWG1sE1Cl5H+Fgl96D1zwIJwgVfCHGjRc51uD2So4YbdTcgbCtvks5cIU0RXxyB1ODCQCdD5
+gMB4BHQmyF0rzFFWDQRUciIJOZJYwnoi0DNSKKM0kKAPXcl4iBsKNCkAXwcsMB6KI2wj3AgQRCBB
+CgkU4OWXYL4EH4MmICJDMReuwFRiKKx55QoSRABBfQvAVZgSLb05whwpNKAdCVSKgFt4AcBnA3wj
+niDASiykwYMCAokARJmRiuAAAXqOIKQg45DgTAoCbCjqAx2SQFyfkFU5ghoDPBMocCtWR6MOtyQg
+TZTh1Hnmby4U4E4jRxjghK8jWKPAYaXSUwACBujUAGhmNfVCNw7+OKGfIFKSeJcBacZmmKsF1MRA
+JQwwqgIZOywraCUNjKQuAAnoCMB0NXLTkgD4PrCPhEjQY5sJlwbjCQMGyMREPUYyCZShJEjVwwFt
+OaDAnREzUCoJCgi7Q3RujRCjpm75MgCQ6G21hjpK6vDqfF49rAQTJNsgbMoixHpCUt+kSsTK517V
+Q5o6MJepFEd6xwDJXbKgzr9YVIVEAsU8MPSqPu8wGxLMAq0oEgzcaUJea9wIx9KPJtEqDSANkcPI
+LDh8Rihel2PyHhnO0MBQQ3CntQhorsEJw2KEglYcZCSIwGwKkIEQv1fkuQYm7Ehrh40QVW45RBc/
+UXDRTwxgbtj+BmU11uikl246DKBflDkW+3DeTxL/rGEl3TK9LkZOfttsFc22e9HyGfiB8mHvWGAy
+NRS172Ea8aWEzkWByQWyTyAOhJM4CmB8FPbnUQxQrQExi9HV8WG8clk4TEdBT9xRBON6GHCDsjfG
+5CPRVfjMp7AA92c8MynAmBpB+jTHuPy1oCvvs0IkgjWLY13POwnswSBWZ8AT8OcO1auSuWJAr/rw
+jgj4qGC6+IcUxXzsBGwT1AeH0CwRbkxncHjGzAAAMVPxKAz0qJ8LT+CHOzyDAEcDQAFekjSPheFP
+O9QBPfAXhQR0xh1dG4EDdNiDbQAuiS0Inh2UchgArC0fA0QzggAGh0W7wXANCjiKLvRWpRUu4Yxl
+nEH04jgD79ExXW6MowPIeEcZMCuCO/xjHwe5hhAAADs=
+------=_Part_49131_961895128.1478473679748
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/1b2eb6e9e08906f661f3337f951459ae
+
+iVBORw0KGgoAAAANSUhEUgAAAA8AAAAOCAYAAADwikbvAAAA5UlEQVR42mNgoBIQAGIFKBbBo04C
+SR0cgDQUAPF/IF6NQ6MFEH8H4tdA7IIuGQHEv4H4NBaNLEB8GWr4bGwmTwfi9UD8HItcA1QTSHMM
+Ns0g5zZDFXAgiTtANcLkRLD5pwaIM6AKFJAC6DQ0QA8D8XlstoJMtQFiD6hmC6j4ZmhYyEADqwKb
+5s3QQJGBag6BGjQfKp4DFddA1wjSsBgpVEGKuoH4OBDzIIXHfWy2JqCF4HNolHkgGfgeVxRtB2ID
+JP5paLTBgA3UNQXoGkGhexsaEDJIcQqLKpDt+6FOngzEOlTJDABVOTNvqa/6tAAAAABJRU5ErkJg
+gg==
+------=_Part_49131_961895128.1478473679748
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/14c48fda35f2fc0007c78664cd24e617
+
+R0lGODlhbgApAOMAAP///wAAAO7u7kRERMzMzNzc3HZ2dpiYmLq6ujIyMqqqqoiIiGZmZhAQEFRU
+VCIiIiH5BAEAAAAALAAAAABuACkAAAT+EMhJq72TrYO7/2AoUsJAjBdzHIGAvnCMFQaLyIAQADTu
+/6jATWYYAI9IjxD3MCSfUMAyplNEr8ApjFXAemXal6PxLb/CqIbRzAahRYWAs03HvEOKgLXOp9xB
+DAFdPgIcH4Y4hSCIJEUBCQYnKA9kPwwuHwIMPpcgmlA6ayGaC5sTC0MgCowUBQs1BwyDp6kfq08I
+ciMDCgqmEgkowRYGnRICDZLAwk8GeiI6mBO3IxsVA3MUCw/TrB/WSAOCIgrc17MhBKIADMMVuZgD
+6CDqSQ07ngYPkLWVFKsGEKxygM5frlrTAkjy1y3gwIJI4rgDMcAbQwAIuhRoYCWZnwn+Ay5OcDbo
+YkYeHAF4nIAPSJ5fIFZOKGBumgQEIiU8wBRgHYUE5mhW2IMTw84ASJMqTQrCmTcMOiwIvWDAgVEX
+OrK1CmBoKjGrF3YeEafsA4KaE5BhSPBUJUutIN2pvcAWQ84Y96qBrZBTxyCE/gb4BLBNmlsLfm/y
+PaID7QcHCy7Im1CUhQQC6Ooda1CrqmEAk2+SsQwAMwXNP3LB/PAAoYQVEwgwUEBAgQEFCBfsOabh
+wKuyE2Bfnl37du7dPhZwHdGyQglmMJ6PmDjNwIINih6Py4Rx8EjgHRC0bQoeg3gLDFIRkNmBUogG
+BwJ6WA2VPgr7iOnbrkDdjndivmV6Ml5wn72QnQcHFOgAK5F9QEAADfYhIQMPlIfgHxKaUUIADTjg
+GgaBZCgiDwc4sBwICfQ3Ih8LqGiBLiu2UQBCCPy3lYUxRnEAcgDctshdOUYh2D/4XVNkkM0IYMCS
+PoagEJJQApDAJge4GGWGbAnwwDxXrrhCgV0mEQEAOw==
+------=_Part_49131_961895128.1478473679748
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/788aff8e4bcde1a3ffe221794f58963c
+
+iVBORw0KGgoAAAANSUhEUgAAABUAAAARCAYAAAAyhueAAAABLklEQVR42mNgGKSAB4gLgLgGiFWo
+YSALEK8G4hwgng/Er4FYglJDbYBYA4m/H4gTkBWAbHCAYh08BpkgqeNAk1sOlcfQ8B+ID+Mw0AOI
+fwPxd6haFrSwXY0mBgYgp78H4sc4wm871NLNWOSbgVgGm0umA/FiqGvQbewG4naooQVYHKOBZDmK
+S5ZDk8Z/NFtdgLgEavB/tDBPgFoCC+caZEMNoJIpUI0WUHEOaFiB6NPQoIG5BmTxbGhyguEIZEMz
+oC5wgBoKk5wPtUADGiztpKS5yUi2gwytAOIQIG6AipdAxW1IyWqTkfi/oS5cjJQWQTH+GUvaxAki
+oK6CgcdQg02QIvE9jqSEE2xHi9HjaLHoAvV6CbEGZkDzbAxSYZCBFMMe0GDYD03HBgNSFgIAK1tA
+D/cFvCsAAAAASUVORK5CYII=
+------=_Part_49131_961895128.1478473679748
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/fd84a1c3cca5efa7a40a75dd6a1849b9
+
+iVBORw0KGgoAAAANSUhEUgAAABUAAAARCAYAAAAyhueAAAABLklEQVR42mNgGKSAB4gLgLgGiFWo
+YSALEK8G4hwgng/Er4FYglJDbYBYA4m/H4gTkBWAbHCAYh08BpkgqeNAk1sOlcfQ8B+ID+Mw0AOI
+fwPxd6haFrSwXY0mBgYgp78H4sc4wm871NLNWOSbgVgGm0umA/FiqGvQbewG4naooQVYHKOBZDmK
+S5ZDk8Z/NFtdgLgEavB/tDBPgFoCC+caZEMNoJIpUI0WUHEOaFiB6NPQoIG5BmTxbGhyguEIZEMz
+oC5wgBoKk5wPtUADGiztpKS5yUi2gwytAOIQIG6AipdAxW1IyWqTkfi/oS5cjJQWQTH+GUvaxAki
+oK6CgcdQg02QIvE9jqSEE2xHi9HjaLHoAvV6CbEGZkDzbAxSYZCBFMMe0GDYD03HBgNSFgIAK1tA
+D/cFvCsAAAAASUVORK5CYII=
+------=_Part_49131_961895128.1478473679748
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/38e000a0e57d117d798ee435220b18b8
+
+iVBORw0KGgoAAAANSUhEUgAAABUAAAARCAYAAAAyhueAAAABLklEQVR42mNgGKSAB4gLgLgGiFWo
+YSALEK8G4hwgng/Er4FYglJDbYBYA4m/H4gTkBWAbHCAYh08BpkgqeNAk1sOlcfQ8B+ID+Mw0AOI
+fwPxd6haFrSwXY0mBgYgp78H4sc4wm871NLNWOSbgVgGm0umA/FiqGvQbewG4naooQVYHKOBZDmK
+S5ZDk8Z/NFtdgLgEavB/tDBPgFoCC+caZEMNoJIpUI0WUHEOaFiB6NPQoIG5BmTxbGhyguEIZEMz
+oC5wgBoKk5wPtUADGiztpKS5yUi2gwytAOIQIG6AipdAxW1IyWqTkfi/oS5cjJQWQTH+GUvaxAki
+oK6CgcdQg02QIvE9jqSEE2xHi9HjaLHoAvV6CbEGZkDzbAxSYZCBFMMe0GDYD03HBgNSFgIAK1tA
+D/cFvCsAAAAASUVORK5CYII=
+------=_Part_49131_961895128.1478473679748
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/7f519aa3e67e05ef72113c6ae6274be9
+
+iVBORw0KGgoAAAANSUhEUgAAABUAAAARCAYAAAAyhueAAAABLklEQVR42mNgGKSAB4gLgLgGiFWo
+YSALEK8G4hwgng/Er4FYglJDbYBYA4m/H4gTkBWAbHCAYh08BpkgqeNAk1sOlcfQ8B+ID+Mw0AOI
+fwPxd6haFrSwXY0mBgYgp78H4sc4wm871NLNWOSbgVgGm0umA/FiqGvQbewG4naooQVYHKOBZDmK
+S5ZDk8Z/NFtdgLgEavB/tDBPgFoCC+caZEMNoJIpUI0WUHEOaFiB6NPQoIG5BmTxbGhyguEIZEMz
+oC5wgBoKk5wPtUADGiztpKS5yUi2gwytAOIQIG6AipdAxW1IyWqTkfi/oS5cjJQWQTH+GUvaxAki
+oK6CgcdQg02QIvE9jqSEE2xHi9HjaLHoAvV6CbEGZkDzbAxSYZCBFMMe0GDYD03HBgNSFgIAK1tA
+D/cFvCsAAAAASUVORK5CYII=
+------=_Part_49131_961895128.1478473679748
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/0a6f7ac2568a87f15cdf1f207ffa5fe1
+
+iVBORw0KGgoAAAANSUhEUgAAAAsAAAAQCAYAAADAvYV+AAAArUlEQVR42mNgoAAYALENEHMAsQg+
+hZuBOAeINYD4MBC74FIoA8T/gdgHyo8AYhVcikHWvgbi01A2CLMgyX+HOhEOQoD4NxAvxmKYBdQA
+Bh4kwQqocwyQbDRBdn8BEAtA2SxQxTFIimuAeDlMcTdUA0zyPVqwzQfiFGS3egBxAlRQAc29j7GI
+YQUg/5wnNkYDgLidWMWTgdiBkKJ2aPBtRoscrADk0RIg1iE7SQIA8FsZpU1D/vwAAAAASUVORK5C
+YII=
+------=_Part_49131_961895128.1478473679748
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/d000a152fe6bf68516f10f190cab9ed3
+
+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
+PN81A0TBG/7wL4dCjhDP+MbPIQQAOw==
+------=_Part_49131_961895128.1478473679748
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/acc356e54712d9925329ea8e08c9b2ad
+
+iVBORw0KGgoAAAANSUhEUgAAABUAAAARCAYAAAAyhueAAAABLklEQVR42mNgGKSAB4gLgLgGiFWo
+YSALEK8G4hwgng/Er4FYglJDbYBYA4m/H4gTkBWAbHCAYh08BpkgqeNAk1sOlcfQ8B+ID+Mw0AOI
+fwPxd6haFrSwXY0mBgYgp78H4sc4wm871NLNWOSbgVgGm0umA/FiqGvQbewG4naooQVYHKOBZDmK
+S5ZDk8Z/NFtdgLgEavB/tDBPgFoCC+caZEMNoJIpUI0WUHEOaFiB6NPQoIG5BmTxbGhyguEIZEMz
+oC5wgBoKk5wPtUADGiztpKS5yUi2gwytAOIQIG6AipdAxW1IyWqTkfi/oS5cjJQWQTH+GUvaxAki
+oK6CgcdQg02QIvE9jqSEE2xHi9HjaLHoAvV6CbEGZkDzbAxSYZCBFMMe0GDYD03HBgNSFgIAK1tA
+D/cFvCsAAAAASUVORK5CYII=
+------=_Part_49131_961895128.1478473679748
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/02f5a43f3fa72f41b7c3f9d8add9b0d8
+
+iVBORw0KGgoAAAANSUhEUgAAABwAAAAPCAYAAAD3T6+hAAABiUlEQVR42sVVIVACURC9QLhAMFwg
+GC4YDIYLBoPBQDAYCAaDgWAwEIwGAjMGgoFIIBAIBAKRYLhAMBgJBoLBQDAYDATDuXvzjtl5s9/K
+zrzh2P1//+7b9++iaI92LLgA6hRLTezM+DPjP/wn97lZt7NE8CAoBF3acADfRnBi/A3BCHueAoe1
+Ef8SNDmoFfwKVoIaxe6cQtTm2DN2YlrQBw4cedVolUMsaDqJM/Ip9blgLXhx8k0NA7fegTmSbPBs
+zeu6JegJloJ3h0qNTXBg4rU/xXMPi1IjjqFTYB+C0H1bEpkWHAs+Uaw73LbZoHMZ4H83QMkCSZ+p
+iwVUnwVEWNqEpD0T/EChM/zy/OakxFNDZaWJgpRdms7m1VGsLr5HxWzXgg6eL7G2g3nG8C+hh5p3
+MQdOUuX+O0DJGLRF6KAAI5lhYBu4LuUMWo6/Y6hiOt/opVEYKtWuQtfhBl08QqmcmK9DA1Wv6VWV
+Y12MnCsc2DdM7BRZoe50eeQUYfdYf6WHlJDs7QvxB7lBXERqwg0ZAAAAAElFTkSuQmCC
+------=_Part_49131_961895128.1478473679748
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/8c5b2537325553fadca389c07a0f8895
+
+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
+------=_Part_49131_961895128.1478473679748
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/d2bbb5bcfa05bd7fea6453042ddb0c07
+
+R0lGODlhpQA8AOMAAP///wAAAHZ2diIiIszMzDIyMmZmZpiYmBAQEKqqqrq6ulRUVIiIiERERNzc
+3O7u7iH5BAEAAAAALAAAAAClADwAAAT+EMhJq7046827/+CmMIIRnmiqrmz6HJIhtHRt37gySEeB
+/8CgsOKQCBbDpHKpGhSZSQVy6FgEHpIEwkQjGLCchQKaNARgycNiJmHcGoixhkEAPMk/a11JR0zQ
+NgIBchcJCQ8Obng4CQEJTDAFjwp3NgUBlRMOAZwBbIs2CD5LDmMJPoA3m1ygTAoBikqACASpN5et
+UIKPS4AMC7Y2Zpm5QYKESbEPAXs/gs3FQs8eDw3QHw4NBc2szszRSdMbDgIHg+Ac4uhA6hzn6xnt
+8IHfHu/zFvL4LfoZ9/sT+gFMIfDCv4EFB4ZIWOEgQIYKPUCc4NACAk4IMmrcmLGTR17+LCYGGVFC
+Wr0OFSuYC9CggwM1nEaFPInnRYxPOEQCSFmhAadYHB7ojEeTjA4eMnMW1cCTwoOLSzUk6EYwKpMn
+R4xZdSrAZwEB1y4Q4LQDBAMwKoZ2EDAg6iUD0JwEMRO2BgNOU3RtVXEAAcgJp3ACECPECtoflxyR
+uYusRg/BBMYio2MnSAE/Qp5yIibkleAWkQ3kzfKKgiFEQG2sihKTzICyNmAwSPqoqyaPn2kYVmIm
+ANUQCQ4I51yh0d8WMLRoqjMg9RDjTBI3/qCAjQHnFwwgOMwCxljAAJbV1SB6gfnz53Nn8QtlU4Dt
+KEqGB6zeiNwWlMJjAsCrERMCCBD+R5FHBBYYQAeNsITCWCw1w10hByI3gV8O7GFAS0wYUICAQVhx
+HAgJLIAZguy1EEsBDIDU3AnloYdefQAIECAZKKLQAEiY/aKBOdOh8NIEC8i0CYdAFACbEual0AAY
+XgAAwwAPSjAWdh5UgYV2A6DBgBwCXEIYFFMu0aUKCggnnCZJVXDZCgCOh05GSiQAZU7BSLAJjBF5
+sFsGQl3ioBU3bgAgkShAWSd0ea4AUQINjAbAbxY4QAsID0SZDwOcHZOoontl0QhaD3xYwQMDiEoe
+P51uqgFDCmCBQCyHbPBVCGqg6qaqGzCEhowTUAmko+NY0eNCqeJ6ga52vuNrjAXWWCoBIgQk0CVZ
+NKhlbIydgtRAS6VkkKCB4OJWbbHXUpBQqxO88mMGJAjg7rvwxhuvsyBYa2xCtiAgwLLg2IsrvhUw
+8GpE/qpaUC2jNtUvueUaYRWWtkCKgbQcZHNDwZtivAG9PLB1McMNa9yCA0fa2vAHImOgY8Uls0DX
+yRIpnMKTlbaI3hMk36AHzB2YUycNDqSJQc42+MQxz/oJXUM5LrWswjIYIp0ryB8Y+oCL5+HsdFW3
+Sj3BZUefsC+RCpiBKX6eeN1BNffBbA6ealMgMM86DKtCBAA7
+------=_Part_49131_961895128.1478473679748
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/ea38ae7e55d912c25c7434ca8c37a7b7
+
+iVBORw0KGgoAAAANSUhEUgAAAAoAAAANCAYAAACQN/8FAAAAlklEQVR42mNgIBNoALENEHMAsQIu
+RcuBOAeq+DAQu+BS+BuIA6DsCCBWQZKTQVZ4GogvAzEP1GoWJEW/0d33Gog3o9kE0mABYggg6QZZ
++R/qIRCQAGIfINaBSZogmfAfKgYD64HYA8QogPqYBWr6YygNA9dhfAOo+2KAOAGIRZAUWWBxM1ZQ
+AcQl+AIfBiYD8WK0MMUPAJvGFhCXKLOKAAAAAElFTkSuQmCC
+------=_Part_49131_961895128.1478473679748
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/0edb84a06b008c085b62914764e9afff
+
+R0lGODlhzgApAOMAAP///wAAAGZmZoiIiJiYmO7u7tzc3HZ2dkRERCIiIqqqqlRUVBAQELq6ujIy
+MszMzCH5BAEAAAAALAAAAADOACkAAAT+EMhJpxik6s27/2AojmRpnqgkEERQpHAsz3RtU0UAGMft
+/8CgEHRADI/IpPKU6C2f0Ogxp5Bar9hUy5Dter+VBQNMLlsZRrN6LTQEnOy4XKYIVOf4PEkQ4HIK
+GXqCWYEfCWMdAi82DQILg5AhBQIfOWkbAw0SBgIMAQIHBwsLDyd1MpwElxMEDgEOgQcJAQuaAA2z
+j0kKoAcDpXAovgQYKAqFGw1vHQ4VBzoTD3YmOTIOmgeLOAEDFMqlEwbdSAUIihONiCgOdwoJKc0d
+z3cax87QE2LU+CkuHgvvwn2iQO8IAl0UBqjbR6MYBwR9HvqZ8OyeNhHVYvjrUGciAX3+rJJs2RDw
+REYZD1ZV8NRhoYSKFBC8a+CAgYFWfo4pGEAvxwMCCg4UrAeUp4QHz0BdrLBMAgFltgrQ02n0Vs2b
+Dgw8cHVTwQIFgLza0uCgZAVKEqje2doHaC0Jjd6EgkhhxYC7dwEAPabSpcB4G/zCTMsAnJsqpAAM
+gLNCApUJCJAlZFwo4r+ABjQxQFtosYVAhwEkzhFIWqAGfiUEUKnBs4pApI+qO+kmn5MLOx6ME82U
+Qx20GgyYfcnt7gVtPifk0ObmxfIJClI/37TRcodvelUggr1xh7/kFAJEFe+YX3jW25hXH7+INr4E
+gQbEw+VnrIQES4lLDjccwGAN0wH+cEp4mgQozUTQmUceANa11ENp4hVgy4ATkBegan7kkGF3FJT1
+h4AK2mLZdO5NMIAukVkQAAMLIAgAfhtABA6Agpm3DUEhAhCgGy6CyJSIPWrQyQMzslgIhaoVaOOI
+TOanV4Mm+kgghuVtKBA6O2WinI5ecZgaACy1pMF/FZzk3UTSONcdahvwGE11QVagDEL+cSMQmt8t
+ueGGTgJwEIAZuHkUnFWWd6UEu1FAwEQCFCRdAP3F5CKZ6VEQigXjPCYBOxxcqsJuUHLAQDDS2Ocp
+ALjpyCGDe5bXZznnOAbHqamyWqiqi9SG6FB6AXfAjCklM1AHLCgnCy28PrDAasjHEEOAUMY+cMwB
+9mngLLQAKLtaop3OKAFr1661bIrZjtuAtgicu2xivoFyl2ThHmWutrXQ+0ADECXmRgD8wiIgBjol
+xKtiAeyHA3qRJHyCshk+kEC1FQAWRqjOeKvwxSXwEgbE6Bj84pdnYSyyCTuxsBjHjgGnwWqSeDzy
+y1r0KQ23MNdsRQso26xzEnzs7HMUDkj889BDNEX00UC4YTHSTM9AAMhNR22COVJXrdHSVmfNDCWt
+aO01CLAUkECcX5etFwF9mv11BAA7
+------=_Part_49131_961895128.1478473679748
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/1110ab72a8951d36fa0cfddb2ad4d446
+
+iVBORw0KGgoAAAANSUhEUgAAABUAAAARCAYAAAAyhueAAAABLklEQVR42mNgGKSAB4gLgLgGiFWo
+YSALEK8G4hwgng/Er4FYglJDbYBYA4m/H4gTkBWAbHCAYh08BpkgqeNAk1sOlcfQ8B+ID+Mw0AOI
+fwPxd6haFrSwXY0mBgYgp78H4sc4wm871NLNWOSbgVgGm0umA/FiqGvQbewG4naooQVYHKOBZDmK
+S5ZDk8Z/NFtdgLgEavB/tDBPgFoCC+caZEMNoJIpUI0WUHEOaFiB6NPQoIG5BmTxbGhyguEIZEMz
+oC5wgBoKk5wPtUADGiztpKS5yUi2gwytAOIQIG6AipdAxW1IyWqTkfi/oS5cjJQWQTH+GUvaxAki
+oK6CgcdQg02QIvE9jqSEE2xHi9HjaLHoAvV6CbEGZkDzbAxSYZCBFMMe0GDYD03HBgNSFgIAK1tA
+D/cFvCsAAAAASUVORK5CYII=
+------=_Part_49131_961895128.1478473679748
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/9d76c8b5fe65cca4fb9b6f4b51a236f4
+
+iVBORw0KGgoAAAANSUhEUgAAAA8AAAAOCAYAAADwikbvAAAA5UlEQVR42mNgoBIQAGIFKBbBo04C
+SR0cgDQUAPF/IF6NQ6MFEH8H4tdA7IIuGQHEv4H4NBaNLEB8GWr4bGwmTwfi9UD8HItcA1QTSHMM
+Ns0g5zZDFXAgiTtANcLkRLD5pwaIM6AKFJAC6DQ0QA8D8XlstoJMtQFiD6hmC6j4ZmhYyEADqwKb
+5s3QQJGBag6BGjQfKp4DFddA1wjSsBgpVEGKuoH4OBDzIIXHfWy2JqCF4HNolHkgGfgeVxRtB2ID
+JP5paLTBgA3UNQXoGkGhexsaEDJIcQqLKpDt+6FOngzEOlTJDABVOTNvqa/6tAAAAABJRU5ErkJg
+gg==
+------=_Part_49131_961895128.1478473679748
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: file:///C:/5170c5daae1751fb3c286ae474bc0903
+
+iVBORw0KGgoAAAANSUhEUgAAAA0AAAAPCAYAAAA/I0V3AAAAvUlEQVR42mNgoBBoALEDFPOgySkg
+yTmga4wB4v9AXIMmzgIVew/EFuiaQKb8BuLLUIXIwAeIp2NzYjNUAmSbC5rcZCAOwKZpP9Q/z6Fs
+ZHAdiAXQNUgA8XIouwFqmwKUrwLE27HZkgDFsNAC+a0fKYASsGlaDMQySPzVQPwZ6qTlSLaiBOlx
+LCEJcmIGFv+BgQ2SU5DBZWjcdGPT1I0jOHOgtpmgSwRATWuHhiAy4MER0WAPwrAAFttUGKgBALVl
+JEuOL6s5AAAAAElFTkSuQmCC
+------=_Part_49131_961895128.1478473679748--
